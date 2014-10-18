@@ -1,6 +1,11 @@
-Eclipse library project based on:
+android-support-v7-recyclerview
+===============================
 
-`ANDROID_SDK/extras/android/m2repository/com/android/support/recyclerview-v7/21.0.0-rc1/recyclerview-v7-21.0.0-rc1.aar`
+Eclipse library project based on:
+`ANDROID_SDK/extras/android/support/v7/recyclerview/`
+
+Requires (to compile):<br/>
+`Android 2.1 (API 7) SDK Platform`
 
 Subversion checkout URL:<br/>
-    https://github.com/dandar3/android-support-v7-recyclerview/trunk
+https://github.com/dandar3/android-support-v7-recyclerview/tags/21.0.0
