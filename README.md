@@ -1,7 +1,7 @@
 android-support-v7-recyclerview
 ===============================
 
-Eclipse library project based on:
+Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/support/v7/recyclerview/`
 
 Requires (to compile):<br/>
