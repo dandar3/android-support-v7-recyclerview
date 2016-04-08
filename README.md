@@ -11,7 +11,7 @@ Requires library:
 * [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
 Subversion checkout URL:<br/>
-* https://github.com/dandar3/android-support-v7-recyclerview/tags/23.2.1
+* https://github.com/dandar3/android-support-v7-recyclerview/tags/23.3.0
 
 Release Notes:<br/>
 * https://developer.android.com/tools/support-library/index.html#revisions
