@@ -11,9 +11,9 @@ Eclipse library project based on:<br/>
 * [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
 **Subversion checkout URLs:**
-* Eclipse ADT<br/>
+* `Eclipse ADT`<br/>
   https://github.com/dandar3/android-support-v7-recyclerview/tags/23.4.0
-* Eclipse Andmore<br/>
+* `Eclipse Andmore`<br/>
   https://github.com/dandar3/android-support-v7-recyclerview/tags/23.4.0_andmore
 
 **Release Notes:**
