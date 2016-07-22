@@ -6,6 +6,7 @@ Eclipse library project based on:<br/>
 **Requires:**
 - `Android 2.1 (API 7) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
+- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
