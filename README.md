@@ -1,7 +1,7 @@
 ## android-support-v7-recyclerview
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/recyclerview-v7/24.0.0/recyclerview-v7-24.0.0.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/recyclerview-v7/24.1.1/recyclerview-v7-24.1.1.aar`
 
 **Requires:**
 - `Android 2.1 (API 7) SDK Platform`
@@ -12,7 +12,4 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html#v7-recyclerview
 
 **SVN checkout:**
-* `Eclipse ADT`<br/>
-  https://github.com/dandar3/android-support-v7-recyclerview/tags/24.0.0
-* `Eclipse Andmore`<br/>
-  https://github.com/dandar3/android-support-v7-recyclerview/tags/24.0.0_andmore
+- https://github.com/dandar3/android-support-v7-recyclerview/tags/24.1.1
