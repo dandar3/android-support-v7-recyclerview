@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/recyclerview-v7/24.1.1/recyclerview-v7-24.1.1.aar`
 
 **Requires:**
-- `Android 2.1 (API 7) SDK Platform`
+- `Android 7.0 (API 24) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
 
@@ -13,4 +13,7 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html#v7-recyclerview
 
 **SVN checkout:**
+- _File > Import... > Team > Team Project Set > URL:_<br/>
+  https://raw.githubusercontent.com/dandar3/android-support-v7-recyclerview/24.1.1/.projectset
+- _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
 - https://github.com/dandar3/android-support-v7-recyclerview/tags/24.1.1
