@@ -16,4 +16,4 @@ Eclipse library project based on:<br/>
 - _File > Import... > Team > Team Project Set > URL:_<br/>
   https://raw.githubusercontent.com/dandar3/android-support-v7-recyclerview/24.1.1/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
-- https://github.com/dandar3/android-support-v7-recyclerview/tags/24.1.1
+  https://github.com/dandar3/android-support-v7-recyclerview/tags/24.1.1
