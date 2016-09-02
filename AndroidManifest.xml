@@ -16,9 +16,9 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.support.v7.recyclerview" 
-          android:versionCode="2411"
-          android:versionName="24.1.1">
+    android:versionCode="2420"
+    android:versionName="24.2.0">
 
-    <uses-sdk android:minSdkVersion="7" />
+    <uses-sdk android:minSdkVersion="9" />
 
 </manifest>
