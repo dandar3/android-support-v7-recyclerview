@@ -16,15 +16,15 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.support.v7.recyclerview" 
-    android:versionCode="2601"
-    android:versionName="26.0.1">
+    android:versionCode="2602"
+    android:versionName="26.0.2">
 
     <uses-sdk android:minSdkVersion="14" />
 
     <application>
         <meta-data
             android:name="android.support.VERSION"
-            android:value="26.0.1" />
+            android:value="26.0.2" />
     </application>
 
 </manifest>
